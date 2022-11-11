@@ -688,6 +688,7 @@ textarea{
 }
 .main-training-section p {
     margin: 1em 1em 0 1em;
+    font-size: 22px;
 }
 .actual-training-section {
     background: linear-gradient(90deg, rgba(255,230,230,1) 23%, rgba(255,188,188,1) 53%, rgba(255,171,171,1) 84%);
