@@ -605,7 +605,7 @@ textarea{
   margin: 5px 0;
   height: 0;
   overflow: hidden;
-  z-index: 15;
+  z-index: 1;
   position: relative;
   opacity: .6;
   -webkit-transition: .7s ease;
